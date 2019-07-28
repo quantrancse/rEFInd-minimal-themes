@@ -66,6 +66,7 @@ Entries that are autodetected should also show the proper icons.
 * For the `volume` token, use the partition label that contain the OS.
 If this label isn't unique, use `blkid` command to get the PARTUUID (GUID) of that partition.
 * For other tokens, just modify as match as `/boot/grub/grub.cfg`.
+* Remember to config `theme.cfg` again after a system kernel upgrade.
 
 Read more about rEFInd configuration at [this link][refind-config]
 
