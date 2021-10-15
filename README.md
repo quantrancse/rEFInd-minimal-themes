@@ -1,13 +1,15 @@
 ## Minimalist rEFInd Themes
 
-[rEFInd](http://www.rodsbooks.com/refind/) is a boot manager for UEFI based systems. These are 3 clean and minimal themes for it.
+[rEFInd](http://www.rodsbooks.com/refind/) is a boot manager for UEFI based systems. These are 4 clean and minimal themes for it.
 
-This version is based on the 2013 theme by [Evan Purkhiser][evan] with some modifications and additional dark theme and gruvbox theme.
+This version is based on the 2013 theme by [Evan Purkhiser][evan] with some modifications and additional dark theme, nord theme, and gruvbox theme.
 
 ##### Light Theme
 ![rEFInd Minimalist Light Theme](./screenshots/screenshot_light.png)
 ##### Dark Theme
 ![rEFInd Minimalist Dark Theme](./screenshots/screenshot_dark.png)
+##### Nord Theme
+![rEFInd Minimalist Nord Theme](./screenshots/screenshot_nord.png)
 ##### Gruvbox Theme
 ![rEFInd Minimalist Gruvbox Theme](./screenshots/screenshot_gruvbox.png)
 
